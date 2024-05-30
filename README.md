@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋 Sou desenvolvedora Full Stack com experiência em HTML, CSS, JavaScript e React. Atualmente estou aprendendo Java. Desejo colaborar e aprender com outros desenvolvedores talentosos por aqui!</h2>
+[<h2 align="left">Olá! 👋 Sou desenvolvedora Full Stack com experiência em HTML, CSS, JavaScript e React. Atualmente estou aprendendo Java. Desejo colaborar e aprender com outros desenvolvedores talentosos por aqui!</h2>
 
 ###
 
@@ -25,5 +25,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+](http://www.gifsde.com/e/gato-en-codigo-ascii/)
 ###
